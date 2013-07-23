@@ -4,6 +4,6 @@ Package.describe({
 
 Package.on_use(function (api) {
 	api.add_files([
-		'lib/buzz/buzz.js'
+		'lib/buzz.js'
 		], 'client');
 });
